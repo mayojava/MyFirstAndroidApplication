@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApplication</string>
+    <string name="show_activity">Show Activity</string>
+    <string name="fragment_one">Hello Fragment One</string>
+</resources>
